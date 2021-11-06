@@ -1,0 +1,11 @@
+.content{
+    height: 600px;
+    padding-left: 19%;
+    overflow: auto;
+    width: 90%;
+    float: left;
+}
+
+.content::-webkit-scrollbar{
+    display: none;
+}
